@@ -1,1 +1,1 @@
-# todo_react_heroku
+Todo app on React and redux
